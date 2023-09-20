@@ -1,2 +1,2 @@
 # VetPetShop
-it is a e-commerse website for pet selling/buying.Backend is devloped by using mysql.for API java snd springboot is use.frontend is devloped with react,html,css,javascript.
+It is an e-commerse website for pet selling/buying.Backend is devloped by using mysql.For API java and springboot is used.Frontend is devloped with react,html,css,javascript.
